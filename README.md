@@ -1,7 +1,7 @@
 # TupperSketch
 
 This is a web application that is designed to allow the user to draw a bitmap on the top grid which is then
-reflected to the bottom grid. This is accomplished by using Jeff Tupper's self-referential formula [1] which 
+reflected to the bottom grid. This is accomplished by using Jeff Tupper's self-referential formula [[1]] which 
 draws the top bitmap picture to the bottom grid along with the unique offset value (`k`) that corresponds 
 to that particular bitmap. 
 
