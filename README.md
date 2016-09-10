@@ -16,7 +16,7 @@ Unless otherwise stated, MIT License.
 
 References:
 
-[1] Tupper, Jeff "Reliable Two-Dimensional Graphics Methods for Mathematical Formulae with Two Free Variables", SIGGRAPH-2001
+1. Tupper, Jeff "Reliable Two-Dimensional Graphics Methods for Mathematical Formulae with Two Free Variables", SIGGRAPH-2001
 
 [1]: http://andylamp.github.io/tuppersketch/about.html
 [2]: http://andylamp.github.io/tuppersketch/index.html
